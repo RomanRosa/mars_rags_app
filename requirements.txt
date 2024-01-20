@@ -1,0 +1,9 @@
+cohere
+tiktoken
+openai
+langchain
+python-dotenv
+chromadb
+pandas
+matplotlib
+transformers
